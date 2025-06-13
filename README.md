@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anuman Modi</h1>
 <h3 align="center">Founder. Frontend Dev. AI Explorer. Always shipping.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuman18&label=Profile%20views&color=0e75b6&style=flat" alt="anuman18" /> </p>
+
 - 🔭 I’m currently working on AI-powered short story reading app **RecommRead - AI-powered short story reading app**
 
 - 🌱 I’m currently learning **Agentic AI, LangChain, Hugging Face, Azure , AI**
