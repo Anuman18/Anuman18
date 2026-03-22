@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuman18&label=Profile%20views&color=0e75b6&style=flat" alt="anuman18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuman18" alt="anuman18" /></a> </p>
-
 - I’m currently working on **RecommRead (AI-based books recommendation system)**
 
 - I’m currently learning **Advanced DSA, System Design**
