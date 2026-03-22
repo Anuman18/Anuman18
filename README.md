@@ -21,9 +21,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/anuman-modi18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuman-modi18" height="30" width="40" /></a>
 <a href="https://kaggle.com/anumanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anumanm" height="30" width="40" /></a>
-<a href="https://fb.com/anuman shailesh modi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anuman shailesh modi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61587564124986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anuman shailesh modi" height="30" width="40" /></a>
 <a href="https://instagram.com/anumanmodii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anumanmodii" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anuman modi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuman modi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/DsXJULr0Lx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuman modi" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/462039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="462039" height="30" width="40" /></a>
 </p>
 
