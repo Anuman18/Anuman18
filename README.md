@@ -15,7 +15,7 @@
 
 - How to reach me **anuman181105@gmail.com**
 
-- Writing / Notes **Currently documenting my learning journey **
+- Writing / Notes **Currently documenting my learning journey 
 
 
 
