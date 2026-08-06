@@ -118,6 +118,12 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/anumanmodi/anumanmodi/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anumanmodi/anumanmodi/snake-output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anumanmodi/anumanmodi/snake-output/snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/anumanmodi/anumanmodi/snake-output/snake.svg">
+  </picture>
+</div>
 
 ###
